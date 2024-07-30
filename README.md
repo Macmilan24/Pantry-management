@@ -1,4 +1,3 @@
-````markdown
 # Pantry Management Project
 
 Welcome to the Pantry Management Project! This application allows users to add items to their pantry, scan images using a camera, and classify these items using the OpenAI or Stripe AI API. The project is built with Next.js and uses Firebase for data storage and authentication.
@@ -74,7 +73,8 @@ NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key
 # OR
 NEXT_PUBLIC_STRIPE_AI_API_KEY=your_stripe_ai_api_key
 ```
-````
+
+```
 
 ## Technologies Used
 
@@ -86,3 +86,4 @@ NEXT_PUBLIC_STRIPE_AI_API_KEY=your_stripe_ai_api_key
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+```
