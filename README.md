@@ -74,8 +74,6 @@ NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key
 NEXT_PUBLIC_STRIPE_AI_API_KEY=your_stripe_ai_api_key
 ```
 
-```
-
 ## Technologies Used
 
 - **Next.js** - React framework for server-side rendering
@@ -86,4 +84,3 @@ NEXT_PUBLIC_STRIPE_AI_API_KEY=your_stripe_ai_api_key
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-```
